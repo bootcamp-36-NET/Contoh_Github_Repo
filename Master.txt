@@ -1,8 +1,7 @@
 
 Body dari master
 
-cek conflict
-
+conflict 2 dari branch Aqira2
 
 Sub-body dari master
 
